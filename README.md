@@ -7,14 +7,14 @@ This is a simple authentication middleware package for Node.js applications.
 You can install this package via npm:
 
 ```bash
-npm install authentication-middleware
+npm install authentication-middleware-sec
 ```
 
 ## Usage
 
 ```javascript
 const express = require('express');
-const AuthenticationMiddleware = require('authentication-middleware');
+const AuthenticationMiddleware = require('authentication-middleware-sec');
 
 // Create an instance of AuthenticationMiddleware
 const authMiddleware = new AuthenticationMiddleware();
