@@ -1,6 +1,6 @@
 {
   "name": "authentication-middleware-sec",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "description": "A middleware for authenticating requests",
   "main": "./src/index.js",
   "scripts": {
