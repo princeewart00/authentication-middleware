@@ -18,9 +18,8 @@
   "author": "Prince Ewart",
   "license": "MIT",
   "dependencies": {
-    "async": "^3.2.5",
-    "babel-cli": "^6.26.0",
     "cryptotracker-app": "^1.0.2",
-    "quagga": "^0.12.1"
+    "quagga": "^0.12.1",
+    "un": "^0.0.0"
   }
 }
